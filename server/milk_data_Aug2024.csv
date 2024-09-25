@@ -1,0 +1,5 @@
+date,time,pH,Temperature,Taste,Odor,Fat,Turbidity,Colour,Grade
+31-Aug-2024,12:28:51,6.3,35,1,1,0,1,249,high
+31-Aug-2024,14:20:23,6.3,35,1,1,0,1,248,high
+31-Aug-2024,14:20:59,3,80,0,0,1,1,241,low
+31-Aug-2024,22:06:36,6.3,35,1,1,1,1,248,high
